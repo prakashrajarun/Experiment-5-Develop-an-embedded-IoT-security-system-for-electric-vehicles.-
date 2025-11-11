@@ -100,6 +100,17 @@ pause(3); % Wait 3 seconds before script ends (For GUI users)
  
  
 ## RESULT
+case1:
+![WhatsApp Image 2025-11-11 at 11 40 41_6b855d4d](https://github.com/user-attachments/assets/e4d1932e-f74c-4987-9cb1-810ab40347dc)
+![WhatsApp Image 2025-11-11 at 11 43 12_b373b104](https://github.com/user-attachments/assets/00a50f4d-d6ec-4666-8fb8-6421f2e742fd)
+
+case2:
+![WhatsApp Image 2025-11-11 at 11 41 32_216355b6](https://github.com/user-attachments/assets/e1b39718-502f-4f73-b012-e604d6a3243e)
+![WhatsApp Image 2025-11-11 at 11 41 38_b66de283](https://github.com/user-attachments/assets/0e1508d0-43d3-4a02-bd6b-fce035b26c47)
+
+
+
+
 The MATLAB program successfully simulates an Embedded IoT Security System for Electric Vehicles, demonstrating:
 ✅ Access Control System – User authentication mechanism
 ✅ Intrusion Detection – Motion sensor alert system
@@ -109,7 +120,6 @@ The MATLAB program successfully simulates an Embedded IoT Security System for El
 •	Green Bar (1) → Access Granted ✅
 •	Red Bar (1) → Intrusion Detected ⚠️
 •	Bars at 0 → No intrusion or incorrect password
-![WhatsApp Image 2025-11-11 at 11 31 40_e3f87fb5](https://github.com/user-attachments/assets/839122cb-d9fd-40a1-a5a2-eeb510acc01b)
 
  
 
